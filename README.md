@@ -1,2 +1,2 @@
 # The-Portal-Saga
-Navigate a crashed spaceship through a planet's wormhole system, collecting parts to repair and escape, with interactive GUI-based graphics.
+This project is a GUI-based adventure game where players aim to repair a broken spaceship by retrieving scattered parts from across a planet. Using an interactive interface, players travel through wormholes, which serve as portals connecting various areas. The gameplay focuses on exploration and collecting parts to fix the ship and escape. Featuring vibrant graphics and simple mechanics, the game offers an engaging experience with opportunities for future enhancements, such as new levels or customizable ships.
